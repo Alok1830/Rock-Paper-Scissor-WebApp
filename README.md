@@ -44,7 +44,7 @@ rock-paper-scissors/
 
 ## 🌐 Live Demo
 
-[Play the Game Here]([https://your-username.github.io/rock-paper-scissors/](https://moonlit-tarsier-932b2e.netlify.app/)https://moonlit-tarsier-932b2e.netlify.app/https://moonlit-tarsier-932b2e.netlify.app/https://moonlit-tarsier-932b2e.netlify.app/https://moonlit-tarsier-932b2e.netlify.app/)
+[Play the Game Here]([https://moonlit-tarsier-932b2e.netlify.app/https://moonlit-tarsier-932b2e.netlify.app/])
 
 ## 📱 Browser Compatibility
 
