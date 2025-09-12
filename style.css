@@ -11,9 +11,9 @@ body {
     min-height: 100vh;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start; /* Changed from center to flex-start */
     padding: 20px;
-    overflow: hidden;
+    overflow-y: auto; /* Changed from hidden to auto */
 }
 
 .container {
@@ -28,6 +28,7 @@ body {
     text-align: center;
     position: relative;
     z-index: 10;
+    margin: 20px 0; /* Added margin for spacing */
 }
 
 /* Header Styles */
