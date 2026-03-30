@@ -2,7 +2,7 @@
 
 A modern, interactive Rock Paper Scissors game built with HTML, CSS, and JavaScript. Features a beautiful gradient design, smooth animations, and engaging gameplay.
 
-🌐 **Live Demo:** [Play the Game](https://moonlit-tarsier-932b2e.netlify.app/)
+🌐 **Live Demo:** [Play the Game](https://rock-paper-scisssor1.netlify.app/)
 
 ## ✨ Features
 
